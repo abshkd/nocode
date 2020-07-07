@@ -48,6 +48,15 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Performance
+Secure doesn't mean there is no performance. Here is the amazing benchmark for the application without doing anything
+
+```
+
+```
+
+If you do something you may not get this amazing performance.
+
 ## Contributing
 
 You don't.
